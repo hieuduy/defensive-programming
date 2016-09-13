@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE product SYSTEM "resources/evil-data.bat">
+<product>
+    <name>Avengers</name>
+    <price>10.0</price>
+    <quantity>20</quantity>
+</product>

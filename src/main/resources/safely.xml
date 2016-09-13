@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE product SYSTEM "resources/validate.dtd">
+<product>
+    <name>Avengers</name>
+    <quantity>20</quantity>
+    <price>10.0</price>
+</product>

@@ -1,0 +1,4 @@
+<!ELEMENT product (name,quantity,price)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
